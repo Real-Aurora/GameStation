@@ -1,0 +1,1015 @@
+{
+  "games": [
+    {
+      "id": "bloxdhop-io",
+      "title": "Bloxd.io",
+      "description": "Bloxd.io is an IO adventure game with Minecraft-style visuals and multiple game modes, including parkour challenges, creative sandbox building, and combat-based gameplay.",
+      "iframeUrl": "https://www.crazygames.com/embed/bloxdhop-io",
+      "category": ".io",
+      "thumbnail": "thumbnails/bloxdhop-io.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "ragdoll-archers",
+      "title": "Ragdoll Archers",
+      "description": "Ragdoll Archers is an archery game featuring bow and arrow-equipped stickmen with ragdoll physics. Fire arrows at a range of opponents while earning points to upgrade your abilities and ammunition. Play two-player PvP against your friend or team up with them to defeat a range of foes!",
+      "iframeUrl": "https://www.crazygames.com/embed/ragdoll-archers",
+      "category": "Casual",
+      "thumbnail": "thumbnails/ragdoll-archers.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "hazmob-fps-online-shooter",
+      "title": "Hazmob FPS: Online Shooter",
+      "description": "Hazmob FPS: Online Shooter is a multiplayer shooting FPS game where every second counts! Play against other players across multiple game modes in non-stop combat. This first-person shooter game is ideal for those seeking a bit of thrill.",
+      "iframeUrl": "https://www.crazygames.com/embed/hazmob-fps-online-shooter",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/hazmob-fps-online-shooter.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "stickman-clash",
+      "title": "Stickman Clash",
+      "description": "Stickman Clash is a thrilling action battle game where you battle as stickman warriors armed with an array of exciting weapons. Engage in fast-paced combat, outsmart opponents, and showcase your skills in dynamic arenas. The game&#39;s captivating action and challenging mechanics keep you hooked as you strive to become the ultimate stickman champion!",
+      "iframeUrl": "https://www.crazygames.com/embed/stickman-clash",
+      "category": "Action",
+      "thumbnail": "thumbnails/stickman-clash.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "slice-master",
+      "title": "Slice Master",
+      "description": "Slice Master is a casual one-person game whose goal is to slice everything in sight, well, almost everything. This one-button game is driven by precision, timing, and discernment to rack up a high score. Flying knives are generally a no-no, but in this game, they are the only way to progress to new blades and skins.",
+      "iframeUrl": "https://www.crazygames.com/embed/slice-master",
+      "category": "Casual",
+      "thumbnail": "thumbnails/slice-master.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "stone-grass-mowing-simulator",
+      "title": "Stone Grass: Mowing Simulator",
+      "description": "Stone Grass: Mowing Simulator is a relaxing yet addictive game where you take control of a powerful mower and transform wild fields into perfectly trimmed landscapes. Glide smoothly through thick overgrowth, clearing grass with satisfying precision.",
+      "iframeUrl": "https://www.crazygames.com/embed/stone-grass-mowing-simulator",
+      "category": "Casual",
+      "thumbnail": "thumbnails/stone-grass-mowing-simulator.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "8-ball-billiards-classic",
+      "title": "8 Ball Billiards Classic",
+      "description": "8-Ball Billiards is a free online pool game in our sports category ideal for one or two players. You can play solo against AI or challenge other players in two-player mode. The game is easy for anyone to play, so pick up a cue and line up your first shot.",
+      "iframeUrl": "https://www.crazygames.com/embed/8-ball-billiards-classic",
+      "category": "Sports",
+      "thumbnail": "thumbnails/8-ball-billiards-classic.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "polytrack",
+      "title": "PolyTrack",
+      "description": "PolyTrack is a fast-paced, low-poly driving game featuring thrilling loops, jumps, and high-speed action where every millisecond counts. Inspired by TrackMania, it challenges you to race against the clock, constantly striving to improve your time on various tracks built by you and the Polytrack community! It doesn&#39;t get any more hands-on than that.",
+      "iframeUrl": "https://www.crazygames.com/embed/polytrack",
+      "category": "Driving",
+      "thumbnail": "thumbnails/polytrack.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "fortzone-battle-royale-xkd",
+      "title": "Fortzone Battle Royale",
+      "description": "Fortzone Battle Royale is a high-stakes survival shooter where you face off against rivals in a massive, scenic battleground. Explore forests, cross rivers, and scavenge for resources as the action ramps up quickly. Outsmart enemies, collect powerful bonuses, and fight to be the last one standing in this fast-paced test of skill and strategy.",
+      "iframeUrl": "https://www.crazygames.com/embed/fortzone-battle-royale-xkd",
+      "category": "Action",
+      "thumbnail": "thumbnails/fortzone-battle-royale-xkd.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "rally-racer-dirt",
+      "title": "Rally Racer Dirt",
+      "description": "Rally Racer Dirt is a rally drift-based game, allows you to drift on both asphalt and dirt terrains while navigating through hills. This category is redefined with the introduction of Rally Racer Dirt, offering the best realistic and stunning controls for a rally game. Enjoy the experience of drifty and realistic tuned physics, coupled with detailed graphics, various vehicles, and racing tracks. Be a rally racer, driving like Ken Blocks and Collin McRae on the tracks. The game features a Realtime Multiplayer Mode, 13 different rally cars, tunable cars with adjustable features, upgradable cars and drive properties, 5 different tuned tracks, and more. Choose between two main game modes: Challenge mode, with 60 different challenges to pass, and Survival mode, where you drift and drive as long as you can, passing checkpoints.",
+      "iframeUrl": "https://www.crazygames.com/embed/rally-racer-dirt",
+      "category": "Driving",
+      "thumbnail": "thumbnails/rally-racer-dirt.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "basketball-legends-2020",
+      "title": "Basketball Legends 2020",
+      "description": "Basketball Legends 2020 is the popular sequel to Basketball Stars 2019. This two-player basketball game lets you play as iconic basketball players like Luka Doncic, James Harden, and LeBron James in bobblehead form!",
+      "iframeUrl": "https://www.crazygames.com/embed/basketball-legends-2020",
+      "category": "Sports",
+      "thumbnail": "thumbnails/basketball-legends-2020.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "skillwarz",
+      "title": "SkillWarz",
+      "description": "SkillWarz is a fast-paced first-person shooter offering advanced movement mechanics and diverse game modes like Deathmatch, Gun Game, and Skull Hunt. Navigate through dynamic day and night maps featuring bounce pads, teleports, and battle pickups. Unlock unique classes, customize your gear, and challenge others or practice against bots in action-packed matches tailored to your style.",
+      "iframeUrl": "https://www.crazygames.com/embed/skillwarz",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/skillwarz.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "zombie-horde-build-survive",
+      "title": "Zombie Horde: Build & Survive",
+      "description": "Zombie Horde: Build &amp; Survive is a fast-paced tower defense game where your survival depends on smart strategy and fierce action. You’ll build traps, upgrade your gear, and guide your hero through relentless waves of the undead. Stay sharp, plan ahead, and test your limits against a growing horde determined to break through.",
+      "iframeUrl": "https://www.crazygames.com/embed/zombie-horde-build-survive",
+      "category": "Action",
+      "thumbnail": "thumbnails/zombie-horde-build-survive.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "kiomet-com",
+      "title": "Kiomet",
+      "description": "Kiomet is an immersive, real-time Io strategy game that challenges you to grow and defend your kingdom in a dynamic, ever-changing world. Expand your realm by strategically capturing new territories, all while defending against rival players and unpredictable threats. Rally your forces to claim vital lands, strengthen your holdings with upgrades, and skillfully plan your conquests to rise to the top of the leaderboard. With every decision you make, you’ll inch closer to ultimate domination.",
+      "iframeUrl": "https://www.crazygames.com/embed/kiomet-com",
+      "category": ".io",
+      "thumbnail": "thumbnails/kiomet-com.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "italian-brainrot-clicker-usp",
+      "title": "Italian Brainrot Clicker Game",
+      "description": "Italian Brainrot Clicker is a chaotic meme clicker incremental game where you tap your way through the viral Italian Brainrot universe, unlocking all the brainrot characters and upgrades as you progress! You will get the chance to collect Italian Brainrot characters such as: Bombardino Crocodilo, Tung Tung Tung Sahur, Tralalero Tralala, Bombombini Gussini, Cappuccino Assasino, Lirili Larila, Brr Brr Patapim, Burbaloni Luliloli, Bobritto Bandito, Trippi Troppi, Chimpanzini Bananini and more! Can you collect them all?",
+      "iframeUrl": "https://www.crazygames.com/embed/italian-brainrot-clicker-usp",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/italian-brainrot-clicker-usp.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "idle-dangers",
+      "title": "Idle Dangers",
+      "description": "Idle Dangers is a dark fantasy RPG where you lead a team of heroes to defend a magical continent from monstrous invaders. You’ll battle through epic dungeons, face towering world bosses, and sharpen your skills in intense PVP. The world’s fate depends on your strategy, strength, and courage. Step forward and defy the darkness.",
+      "iframeUrl": "https://www.crazygames.com/embed/idle-dangers",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/idle-dangers.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "paper-boy-race-running-game",
+      "title": "Paper Boy Race: Running Game",
+      "description": "Paper Boy Race: Running Game is a thrilling 3D runner where you speed through bustling city streets on a mission to master the art of newspaper delivery. Dodge traffic, leap over roadblocks, and nail your throws into mailboxes with perfect timing. Upgrade your ride, unlock cool gear, and race to become a true delivery legend.",
+      "iframeUrl": "https://www.crazygames.com/embed/paper-boy-race-running-game",
+      "category": "Casual",
+      "thumbnail": "thumbnails/paper-boy-race-running-game.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "homesteads-dream-farm-fkk",
+      "title": "Homesteads: Dream Farm",
+      "description": "Homesteads: Dream Farm is a simulation game that puts you in charge of a growing frontier town. You’ll manage resources, meet colorful characters, and explore the untamed Wild West. As you build your homestead, forge friendships, and shape your community, every decision you make helps turn the frontier into a thriving settlement full of life.",
+      "iframeUrl": "https://www.crazygames.com/embed/homesteads-dream-farm-fkk",
+      "category": "Casual",
+      "thumbnail": "thumbnails/homesteads-dream-farm-fkk.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "asmr-girl-livestream-mukbang",
+      "title": "ASMR Girl: Livestream Mukbang",
+      "description": "ASMR Girl: Livestream Mukbang is a simulation where you step into the spotlight as an adorable mukbang streamer. Savor mouthwatering dishes, connect with your audience, and build your popularity one bite at a time. Every meal brings you closer to stardom—keep eating, keep engaging, and let your virtual foodie journey unfold.",
+      "iframeUrl": "https://www.crazygames.com/embed/asmr-girl-livestream-mukbang",
+      "category": "Casual",
+      "thumbnail": "thumbnails/asmr-girl-livestream-mukbang.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "pocketro",
+      "title": "Pocketro",
+      "description": "Pocketro is a fast-paced roguelike card game that fuses poker mechanics with strategic deck-building. You’ll craft winning hands, collect random power-ups, and face tougher challenges with each round. Every decision shapes your run, making each session unpredictable and rewarding. Test your instincts, take risks, and outsmart the table in a game of clever gambits.",
+      "iframeUrl": "https://www.crazygames.com/embed/pocketro",
+      "category": "Casual",
+      "thumbnail": "thumbnails/pocketro.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "pirates-of-the-caribbean-tow",
+      "title": "Pirates of the Caribbean: ToW",
+      "description": "Pirates of the Caribbean: Tides of War is a strategic adventure set in the legendary world of pirates. Join Jack Sparrow, Will Turner, and Captain Barbossa on a high-stakes quest for treasure. Command your fleet, engage in fierce battles, and navigate the treacherous seas. Do you have what it takes to become a true pirate legend?",
+      "iframeUrl": "https://www.crazygames.com/embed/pirates-of-the-caribbean-tow",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/pirates-of-the-caribbean-tow.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "mma-manager-2",
+      "title": "MMA Manager 2",
+      "description": "MMA Manager 2 is a dynamic sports management simulation where you take charge of building an MMA empire. Hire top-tier trainers, equip your gyms with cutting-edge gear, and plan strategic fight plans. Scout talented fighters, recruit rising stars and guide them to championship glory. Every decision shapes your path to becoming the ultimate MMA manager.",
+      "iframeUrl": "https://www.crazygames.com/embed/mma-manager-2",
+      "category": "Sports",
+      "thumbnail": "thumbnails/mma-manager-2.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "starblastio",
+      "title": "StarBlast",
+      "description": "StarBlast is a fun multiplayer arcade shooter set in space. Mine asteroids and fight other players in your own fully upgradable spaceship. Work together with your teammates to ensure victory.",
+      "iframeUrl": "https://www.crazygames.com/embed/starblastio",
+      "category": ".io",
+      "thumbnail": "thumbnails/starblastio.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "super-star-car",
+      "title": "Super Star Car",
+      "description": "Super Star Car is a driving Formula 1 racing game that puts you in the driver’s seat of high-speed action with a vast selection of cars and iconic circuits. Start your career as a professional racer and climb the ranks through thrilling campaign races, upgrading your car to enhance performance along the way. With simple controls that let you navigate sharp corners effortlessly, stunning 3D graphics, realistic engine sounds, and customizable camera views, the game offers an immersive and adrenaline-packed experience.",
+      "iframeUrl": "https://www.crazygames.com/embed/super-star-car",
+      "category": "Driving",
+      "thumbnail": "thumbnails/super-star-car.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "solar-smash",
+      "title": "Planet Smash Destruction",
+      "description": "Planet Smash Destruction is a casual game in which you wield cosmic power to create and destroy planets. You can try out different weapons, design custom planetary systems, and release black holes. With easy-to-use controls, it suits both beginners and seasoned players. Unleash your creativity and discover the wonders of space in this captivating physics simulator.",
+      "iframeUrl": "https://www.crazygames.com/embed/solar-smash",
+      "category": "Casual",
+      "thumbnail": "thumbnails/solar-smash.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "count-masters-stickman-games",
+      "title": "Count Masters: Stickman Games",
+      "description": "Count Masters: Stickman Games is a fast-paced running game where you gather a growing army of stickmen to clash against rival crowds. Navigate through obstacles, choose the best paths to multiply your numbers, and lead your team to victory. Battle fierce opponents, defeat the King-stickman, and claim the castle in an action-packed race filled with strategy and excitement!",
+      "iframeUrl": "https://www.crazygames.com/embed/count-masters-stickman-games",
+      "category": "Casual",
+      "thumbnail": "thumbnails/count-masters-stickman-games.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "mx-offroad-master",
+      "title": "MX Offroad Master",
+      "description": "MX Offroad Master is a driving bike game where you cycle down steep mountain slopes. Hop on any of the four mountain bikes and get ready for high-octane stunts. You can play either free ride or mountain ride game modes, and there is the option to play locally with a friend or solo.",
+      "iframeUrl": "https://www.crazygames.com/embed/mx-offroad-master",
+      "category": "Driving",
+      "thumbnail": "thumbnails/mx-offroad-master.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "bullet-force-multiplayer",
+      "title": "Bullet Force",
+      "description": "Bullet Force is an online multiplayer FPS game featuring fast-paced action. Battle against other players on tactical maps using a range of weapons at your disposal. Crate custom games and buy new perks to improve your character.",
+      "iframeUrl": "https://www.crazygames.com/embed/bullet-force-multiplayer",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/bullet-force-multiplayer.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "weapons-ragdoll-arena",
+      "title": "Weapons Ragdoll Arena",
+      "description": "Weapons Ragdoll Arena is a chaotic arcade battle where you hurl wild weapons at your opponent in hilarious ragdoll duels. Choose your arsenal wisely, as each item has its own power and impact. Outsmart, outthrow, and outlast your enemies as you aim for critical hits. Show your skill and rise as the ultimate throw champion!",
+      "iframeUrl": "https://www.crazygames.com/embed/weapons-ragdoll-arena",
+      "category": "Action",
+      "thumbnail": "thumbnails/weapons-ragdoll-arena.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "bodycamera-shooter",
+      "title": "BodyCamera Shooter",
+      "description": "BodyCamera Shooter is an FPS shooting game where you see everything from a body camera fixed on your fighter, taking you through a pretty realistic experience through abandoned buildings and rubble, aiming to kill or be killed. You&#39;ll understand the concept if you&#39;re familiar with the Bodycam game. Enter the battlefield and enjoy a unique gaming experience! BodyCamera Shooter offers ultra-realistic first-person shooter action directly in your browser and on your phone.",
+      "iframeUrl": "https://www.crazygames.com/embed/bodycamera-shooter",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/bodycamera-shooter.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "mahjongg-solitaire",
+      "title": "Mahjongg Solitaire",
+      "description": "Mahjongg Solitaire is an online mahjong puzzle board game featuring traditional rules and modern visuals. There are no shuffles, and the game is timed, but the game&#39;s pace is relaxed.",
+      "iframeUrl": "https://www.crazygames.com/embed/mahjongg-solitaire",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/mahjongg-solitaire.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "revolution-idle-x-demo",
+      "title": "Revolution Idle X",
+      "description": "Revolution Idle X is a newly remade version of the classic game, boasting various features and complexities. Despite being a demo, this version surpasses the content and graphics of its predecessor. The objective is simple; fill circles to increase your numbers and achieve the rainbow spectrum. Enjoy the infinite possibilities of prestige, promotion, and endless gameplay. Start having fun now!",
+      "iframeUrl": "https://www.crazygames.com/embed/revolution-idle-x-demo",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/revolution-idle-x-demo.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "piece-of-cake-merge-and-bake",
+      "title": "Piece of Cake: Merge and Bake",
+      "description": "Piece of Cake: Merge and Bake is a puzzle casual game where you help Emily, the main character, breathe new life into her family’s rundown cafe while uncovering long-lost family secrets. Solve a variety of challenging puzzles, manage the cafe&#39;s operations, and craft creative item combinations to unlock new chapters of the story. As you progress, enjoy heartwarming moments and unexpected twists that keep you engaged at every turn.",
+      "iframeUrl": "https://www.crazygames.com/embed/piece-of-cake-merge-and-bake",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/piece-of-cake-merge-and-bake.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "basketball-stars-2019",
+      "title": "Basketball Stars",
+      "description": "Basketball Stars is a 2-player basketball game by Madpuffers where you hit the court as legends like LeBron James, Stephen Curry, and James Harden. Play solo or team up with a friend in fast-paced hoops action!",
+      "iframeUrl": "https://www.crazygames.com/embed/basketball-stars-2019",
+      "category": "Sports",
+      "thumbnail": "thumbnails/basketball-stars-2019.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "rovercraft",
+      "title": "Rovercraft",
+      "description": "Rovercraft is a driving arcade game that puts your creativity and driving skills to the test. Build and customize your very own rover, outfitting it with powerful tools like jet engines, super-wheels, and other high-tech upgrades to tackle challenging alien landscapes. Each terrain is a unique puzzle, filled with treacherous obstacles and steep climbs, requiring both ingenuity in your design and precision in your driving. As you navigate through these extraterrestrial courses, the true challenge lies in achieving the perfect balance between your engineering prowess and your skills behind the wheel.",
+      "iframeUrl": "https://www.crazygames.com/embed/rovercraft",
+      "category": "Driving",
+      "thumbnail": "thumbnails/rovercraft.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "supermarket-simulator-cashier-game",
+      "title": "Supermarket Simulator: Store Manager",
+      "description": "Supermarket Simulator: Store Manager is a dynamic retail experience where you juggle cashier duties and store management. Scan items, process payments, and keep customers happy while managing stock and organizing shelves. As challenges intensify, you’ll grow your store and meet rising demand. Can you handle the rush and build a thriving supermarket empire?",
+      "iframeUrl": "https://www.crazygames.com/embed/supermarket-simulator-cashier-game",
+      "category": "Casual",
+      "thumbnail": "thumbnails/supermarket-simulator-cashier-game.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "fishy",
+      "title": "Fishy",
+      "description": "Fishy is an arcade game to eat smaller fishes and survive.",
+      "iframeUrl": "https://www.crazygames.com/embed/fishy",
+      "category": "Casual",
+      "thumbnail": "thumbnails/fishy.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "ludo-party",
+      "title": "Ludo Party",
+      "description": "Ludo Party Game is a fun multiplayer board game that brings a fresh spin to the classic Ludo experience. You’ll compete with friends, chat during matches, and personalize your game through unique customizations. Sharpen your strategy, enjoy friendly competition, and create lasting memories as you roll the dice and chase victory.",
+      "iframeUrl": "https://www.crazygames.com/embed/ludo-party",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/ludo-party.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "uncle-hit-punch-the-dummy",
+      "title": "Uncle Hit: Punch the Dummy",
+      "description": "Uncle Hit: Punch the Dummy is a fast-paced action game where you take out your frustration on a relentless, annoying dummy. With quick reflexes and nonstop punches, you’ll unleash a flurry of blows in simple, satisfying bursts. Stay sharp, keep hitting, and enjoy every moment of chaotic stress relief wrapped in hilarious impact.",
+      "iframeUrl": "https://www.crazygames.com/embed/uncle-hit-punch-the-dummy",
+      "category": "Casual",
+      "thumbnail": "thumbnails/uncle-hit-punch-the-dummy.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "color-zone",
+      "title": "Color Zone",
+      "description": "Color Zone is a vibrant strategy game where card-based combat meets territory control. Build powerful decks, deploy clever unit combos, and paint the arena in your faction’s color to seize dominance. With a mix of tower defense mechanics, upgrades, and customization, every match is a fast-paced battle of brains and bold moves.",
+      "iframeUrl": "https://www.crazygames.com/embed/color-zone",
+      "category": "Casual",
+      "thumbnail": "thumbnails/color-zone.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "street-food-simulator",
+      "title": "Street Food Simulator",
+      "description": "Street Food Simulator is a fast-paced cooking adventure where you run a food truck and serve up sizzling dishes on the go. Take orders, cook delicious meals, and satisfy hungry customers to earn cash and unlock upgrades. With new recipes, ingredients, and time-management challenges, you’ll build your street food empire one meal at a time.",
+      "iframeUrl": "https://www.crazygames.com/embed/street-food-simulator",
+      "category": "Casual",
+      "thumbnail": "thumbnails/street-food-simulator.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "war-v-survivor",
+      "title": "War V: Survivor",
+      "description": "War V: Survivor is a gritty first-person shooter set in a brutal world overrun by infected hordes. Navigate a haunting post-disaster landscape, battle through waves of mutated enemies, and wield real-world weapons enhanced with modular upgrades. With each mission, uncover pieces of a gripping storyline that may hold the cure to save what&#39;s left of humanity.",
+      "iframeUrl": "https://www.crazygames.com/embed/war-v-survivor",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/war-v-survivor.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "papaya-summer-farm-sho",
+      "title": "Papaya Summer Farm",
+      "description": "Papaya Summer Farm is a vibrant tropical adventure where you create a dream getaway on a stunning island paradise. Build and customize your hotel, greet curious guests, and team up to protect rare animals from sneaky poachers. With crystal-clear seas and exotic charm, your island escape is as wild as it is welcoming.",
+      "iframeUrl": "https://www.crazygames.com/embed/papaya-summer-farm-sho",
+      "category": "Casual",
+      "thumbnail": "thumbnails/papaya-summer-farm-sho.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "gaz-to-the-moon",
+      "title": "Gaz to the Moon",
+      "description": "Gaz to the Moon is a thrilling vertical adventure where you soar skyward on a tank of gaz, dodging obstacles and pushing your limits. Aim higher with every launch, uncover skybound secrets, and chase the ultimate goal—touching the Moon itself. How far will your gaz take you? There’s only one way to find out.",
+      "iframeUrl": "https://www.crazygames.com/embed/gaz-to-the-moon",
+      "category": "Casual",
+      "thumbnail": "thumbnails/gaz-to-the-moon.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "dungeon-master---cult-craft",
+      "title": "Dungeon Master - Cult & Craft",
+      "description": "Dungeon Master – Cult &amp; Craft is a darkly captivating 3D dungeon management simulator where you reign as the master of an underground empire. Convert simple stickmen into loyal followers, mine precious resources, and grow a powerful cult beneath the surface. Keep faith high or risk losing control of your dominion. The goal of the game is to manage the dungeon, develop your Cult, and maintain power over your followers.",
+      "iframeUrl": "https://www.crazygames.com/embed/dungeon-master---cult-craft",
+      "category": "Casual",
+      "thumbnail": "thumbnails/dungeon-master---cult-craft.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "rumble-high",
+      "title": "Rumble High",
+      "description": "Rumble High is a wild 2D fighter where rebellious students clash in chaotic, no-rules showdowns for campus supremacy. Master crazy combos with smooth controls, pick from a roster of unique fighters, and rise through tournament mode to claim the crown. Fast, fierce, and full of attitude—class just got dangerous.",
+      "iframeUrl": "https://www.crazygames.com/embed/rumble-high",
+      "category": "Action",
+      "thumbnail": "thumbnails/rumble-high.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "catch-a-rock-nbq",
+      "title": "Catch-A-Rock",
+      "description": "Catch-A-Rock is a quirky blend of tower defense and roguelike action where you play as a heroic cat protecting your crystal-trapped brother. Hurl rocks at waves of enemies charging from both sides, unlock powerful new abilities, and choose upgrades between battles to grow stronger with each level. Survive, evolve, and fight to the last paw!",
+      "iframeUrl": "https://www.crazygames.com/embed/catch-a-rock-nbq",
+      "category": "Action",
+      "thumbnail": "thumbnails/catch-a-rock-nbq.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "vampire-master-nkk",
+      "title": "Vampire Master",
+      "description": "Vampire Master is an immersive, strategy-driven RPG that invites players to step into the dark, thrilling world of vampire supremacy. As a Vampire Master, you will command an army of undead, conquer powerful realms, and build an empire under the cover of night.",
+      "iframeUrl": "https://www.crazygames.com/embed/vampire-master-nkk",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/vampire-master-nkk.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "mk48-io",
+      "title": "Mk48.io",
+      "description": "Mk48.io is an Io battleship game that thrusts you into the heart of intense multiplayer naval warfare, where only the fiercest captains have what it takes to dominate the seas. Command your vessel and level up by collecting valuable crates and sinking enemy ships, gaining power and upgrades as you rise. Choose from an impressive fleet of 43 meticulously crafted boats, each inspired by real-world warships, and equip your ship with nine powerful weapons that evolve over ten thrilling levels.",
+      "iframeUrl": "https://www.crazygames.com/embed/mk48-io",
+      "category": ".io",
+      "thumbnail": "thumbnails/mk48-io.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "demolition-derby-3",
+      "title": "Demolition Derby 3",
+      "description": "Demolition Derby 3 is a thrilling car game offering open-world driving and multiplayer modes. Choose from 100 vehicles, upgrade performance, and customize your ride. Enjoy 20+ tracks and demolition arenas, daily rewards, and first-person driving!",
+      "iframeUrl": "https://www.crazygames.com/embed/demolition-derby-3",
+      "category": "Driving",
+      "thumbnail": "thumbnails/demolition-derby-3.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "racing-limits",
+      "title": "Racing Limits",
+      "description": "Racing Limits is a racing game that lets you push your skills to the max. Race and overtake vehicles in city and highway traffic with four thrilling game modes: carrier, infinite, against-time, and free mode. Choose between one-way and two-way traffic, and experience three times of day - &#39;Morning,&#39; &#39;Sunset,&#39; and &#39;Night.&#39; With multiple camera angles, sensitive controls, and realistic physics, it&#39;s a high-speed adventure you won&#39;t want to miss. Customize, upgrade, and take on numerous race events in this graphically stunning racing world!",
+      "iframeUrl": "https://www.crazygames.com/embed/racing-limits",
+      "category": "Driving",
+      "thumbnail": "thumbnails/racing-limits.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "mine-blocks",
+      "title": "Mine Blocks",
+      "description": "Mine Blocks is a 2D Minecraft fan action game originally released in Flash. You can now play the game again, as it’s been rebuilt in HTML5 and features regular updates from the development team. Explore, craft, and create a world of your imaginings in this open-world playground!",
+      "iframeUrl": "https://www.crazygames.com/embed/mine-blocks",
+      "category": "Action",
+      "thumbnail": "thumbnails/mine-blocks.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "doodle-road",
+      "title": "Doodle Road",
+      "description": "Doodle Road is an imaginative and captivating 2D casual game that combines creativity with problem-solving. In this fun browser game, your primary objective is to draw a path that will successfully guide a car from the starting point to the finish line. With a multitude of levels to explore, each one introduces new challenges and exciting obstacles that test your creativity and strategic thinking. Draw your way to victory and see how far your creativity can take you!",
+      "iframeUrl": "https://www.crazygames.com/embed/doodle-road",
+      "category": "Casual",
+      "thumbnail": "thumbnails/doodle-road.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "the-waitress",
+      "title": "The Waitress",
+      "description": "The Waitress is a classic arcade game where you play as a waitress in a distinctly average cafe. Take orders from customers and do it fast to keep them happy!",
+      "iframeUrl": "https://www.crazygames.com/embed/the-waitress",
+      "category": "Casual",
+      "thumbnail": "thumbnails/the-waitress.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "oneline",
+      "title": "One Line",
+      "description": "One Line is a casual art drawing game where your mission is to use a single line to protect an innocent man from a series of unfortunate events. From shielding him against heavy rain to fending off aggressive bees and even angry giants, each level presents a new challenge. Get creative and use the power of One Line to ensure he stays safe, all while enjoying the simple yet satisfying drawing mechanics. The more you play, the more you&#39;ll need to think outside the box to keep him protected!",
+      "iframeUrl": "https://www.crazygames.com/embed/oneline",
+      "category": "Casual",
+      "thumbnail": "thumbnails/oneline.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "xtreme-city-drifting",
+      "title": "Xtreme City Drifting",
+      "description": "",
+      "iframeUrl": "https://www.crazygames.com/embed/xtreme-city-drifting",
+      "category": "Driving",
+      "thumbnail": "thumbnails/xtreme-city-drifting.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "city-classic-car-driving-131",
+      "title": "City Classic Car Driving: 131",
+      "description": "City Classic Car Driving: 131 is a car driving game to test your driving skills. Take your ride, reach high speeds, drive through traffic, and lose the cops. Customize your car in the garage and show it off on the roads of the city. Complete missions like races, pursuits, drift events, and earn more cash. Prepare yourself to be the drift and racing king!",
+      "iframeUrl": "https://www.crazygames.com/embed/city-classic-car-driving-131",
+      "category": "Driving",
+      "thumbnail": "thumbnails/city-classic-car-driving-131.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "evolution-factor-1",
+      "title": "Evolution Factor",
+      "description": "Evolution Factor is a revamped throwback where you command utility vehicles to rescue and restore a fleet of classic and work machines. Tow broken-down cars to the garage, build stunt zones with forklifts and excavators, and craft your own chaotic playgrounds across two detailed scenes. It’s a creative twist on vehicular problem-solving and action-packed stunts.",
+      "iframeUrl": "https://www.crazygames.com/embed/evolution-factor-1",
+      "category": "Driving",
+      "thumbnail": "thumbnails/evolution-factor-1.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "sandbox-city---cars-zombies-ragdolls",
+      "title": "Sandbox City",
+      "description": "Sandbox City - Cars, Zombies, Ragdolls! is a zombie game where you can explore freely and drive around the city, but, be careful of the zombie&#39;s infection! Find the zombies and kill them before the infection spreads around and the city.",
+      "iframeUrl": "https://www.crazygames.com/embed/sandbox-city---cars-zombies-ragdolls",
+      "category": "Action",
+      "thumbnail": "thumbnails/sandbox-city---cars-zombies-ragdolls.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "madness-project-nexus",
+      "title": "Madness Project Nexus",
+      "description": "To defeat Project Nexus and the Nexus Training Program, the first step is to break your agents out of jail in this stylish and violent shoot-and-hack &#39;em-up. Use the keyboard to move and the mouse to aim.",
+      "iframeUrl": "https://www.crazygames.com/embed/madness-project-nexus",
+      "category": "Action",
+      "thumbnail": "thumbnails/madness-project-nexus.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "stick-epic-fighter",
+      "title": "Stick Epic Fighter",
+      "description": "Stick Epic Fighter is an action-packed, arcade physics-based fighting game where you are in control of a stick fighter to battle enemies in a dynamic, geometric world. Your mission is to evolve your character into an unstoppable force by unlocking powerful upgrades, mastering epic combos, and unleashing devastating fatalities that will destroy your foes. Conquer waves of enemies with precision and skill as you dominate each battle. Only after crushing every opponent will you unlock the portal to the next level, where even more significant challenges await. Sharpen your reflexes, perfect your strategies, and prove you have what it takes.",
+      "iframeUrl": "https://www.crazygames.com/embed/stick-epic-fighter",
+      "category": "Action",
+      "thumbnail": "thumbnails/stick-epic-fighter.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "playground",
+      "title": "Playground",
+      "description": "Playground is an action sandbox game where creativity meets destruction in an open-ended cubic sandbox! Whether you’re building grand cities, orchestrating epic battles, or just causing mayhem, the possibilities are endless! What will you build or destroy first?",
+      "iframeUrl": "https://www.crazygames.com/embed/playground",
+      "category": "Action",
+      "thumbnail": "thumbnails/playground.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "samurai-s-shadow-qtn",
+      "title": "Samurai's Shadow",
+      "description": "Samurai&#39;s Shadow is an action-packed adventure set in the heart of the Shogun’s era, where danger lurks around every corner. Step into the shoes of a fearless samurai and unleash swift, soul-like combat to slice through surprise enemies. Discover hidden rewards in chests, upgrade your skills, and become an unstoppable warrior of the shadows!",
+      "iframeUrl": "https://www.crazygames.com/embed/samurai-s-shadow-qtn",
+      "category": "Action",
+      "thumbnail": "thumbnails/samurai-s-shadow-qtn.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "leap-and-avoid-2",
+      "title": "Leap and Avoid 2",
+      "description": "Leap and Avoid 2 is a thrilling platform adventure where you guide a nimble white ball through treacherous caves and high-tech labs. Navigate white platforms, dodge the deadly black ones, and uncover hidden paths brimming with coins. Use your earnings to unlock upgrades like shields and speed boosts as you race for secrets, treasures, and leaderboard glory.",
+      "iframeUrl": "https://www.crazygames.com/embed/leap-and-avoid-2",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/leap-and-avoid-2.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "matchventures",
+      "title": "MatchVentures",
+      "description": "MatchVentures is a captivating match-3 adventure game where you explore the dark dungeons of Cliffmont Castle. As you journey through vast levels, collect gems and jewels while overcoming various obstacles in a quest to rebuild the castle destroyed by the evil dragon master, Dragor. With the help of Finlea the Leprechaun and her band of dwarves, you’ll battle enemies, explore hidden caves, and solve intricate puzzles. Perfect for fans of match-3 and fantasy adventure games, MatchVentures invites you to fulfill an ancient legend and bring light back to the land. Explore at your own pace and uncover the mysteries within!",
+      "iframeUrl": "https://www.crazygames.com/embed/matchventures",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/matchventures.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "chess-free",
+      "title": "Chess Free",
+      "description": "Chess Free is an online puzzle chess game where you can compete against players worldwide in exciting one-on-one matches. Challenge yourself by outsmarting opponents of various skill levels to strengthen yours. If you prefer to play solo, level up your abilities against the computer, choosing from a range of difficulty settings—from beginner to World Champion. Whether you&#39;re just learning the game or aiming for grandmaster status, interactive hints help refine your moves to get you there.",
+      "iframeUrl": "https://www.crazygames.com/embed/chess-free",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/chess-free.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "screw-out-bolts-and-nuts",
+      "title": "Screw Out: Bolts and Nuts",
+      "description": "Screw Out: Bolts and Nuts is a classic puzzle logic game where your goal is to unscrew bolts from various shapes and sort them by color into the correct containers. Each level presents a new challenge that requires patience, logic, and careful planning to succeed. Be vigilant! The number of additional holes is limited, so you&#39;ll need to think a few steps ahead before making a move. Every action counts, and rushing in without a plan could leave you stuck! Once all the bolts are sorted correctly, you’ll complete the level and move on to even trickier puzzles. Can you master every challenge and become the ultimate bolt-sorting expert?",
+      "iframeUrl": "https://www.crazygames.com/embed/screw-out-bolts-and-nuts",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/screw-out-bolts-and-nuts.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "room-escape-strange-case",
+      "title": "Room Escape: Strange Case",
+      "description": "Room Escape: Strange Case is a mystery puzzle game where you, the true detective, delve into the enigma of the elusive &quot;Alchemist.&quot; Unravel the chilling tale of defiled graves, navigating through a unique graphic style and atmospheric puzzles. Encounter strange characters and escape clever traps in your quest to unveil the Alchemist&#39;s identity. Are you up for the challenge of this original and mysterious adventure? You can also watch the walkthrough for chapter 1, chapter 2, and chapter 3.",
+      "iframeUrl": "https://www.crazygames.com/embed/room-escape-strange-case",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/room-escape-strange-case.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "color-match-amg",
+      "title": "Color Match",
+      "description": "Color Match is a creative puzzle art color-matching game where you unleash your inner artist. Blend colors skillfully to bring 3D objects to life, turning each into a stunning work of art. With every stroke, challenge your creativity and enjoy the satisfaction of crafting vibrant masterpieces in this immersive and artistic experience.",
+      "iframeUrl": "https://www.crazygames.com/embed/color-match-amg",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/color-match-amg.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "diamant-match-3-sky-story",
+      "title": "Diamant: Sky Stories Match 3",
+      "description": "Diamant: Sky Stories Match 3 is a vibrant match-3 adventure where you build a floating city in the clouds. Solve colorful puzzles, summon mighty golems with unique powers, and unlock extraordinary buildings to grow your sky island. With each blueprint you discover and upgrade, your city soars higher, blending puzzle mastery with imaginative world-building.",
+      "iframeUrl": "https://www.crazygames.com/embed/diamant-match-3-sky-story",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/diamant-match-3-sky-story.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "thief-puzzle",
+      "title": "Thief Puzzle",
+      "description": "Thief Puzzle is a clever 2D puzzle logic game that puts your problem-solving and strategy to the test. You control a sneaky thief’s hand as it reaches for valuable treasures, but the path is filled with complex traps, laser security systems, and tricky obstacles. Do you have what it takes to outsmart each trap that comes your way?",
+      "iframeUrl": "https://www.crazygames.com/embed/thief-puzzle",
+      "category": "Puzzle",
+      "thumbnail": "thumbnails/thief-puzzle.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "prison-escape-lnj",
+      "title": "Prison Escape",
+      "description": "Prison Escape is an action-adventure game where you guide a daring prisoner on a wild journey to freedom. You’ll solve tricky puzzles, adapt to strange twists, and tackle unpredictable mini-games. Each step brings memorable characters and fast-paced challenges that test your wit and courage. Outsmart the odds and carve your own path to escape.",
+      "iframeUrl": "https://www.crazygames.com/embed/prison-escape-lnj",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/prison-escape-lnj.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "doors-castle",
+      "title": "Doors Castle",
+      "description": "Doors Castle is a thrilling adventure through a haunted fortress filled with secrets, puzzles, and lurking horrors. Every shadow hides danger, every door holds a mystery. Explore eerie hallways, uncover hidden paths, and stay one step ahead of the creatures stalking the dark.",
+      "iframeUrl": "https://www.crazygames.com/embed/doors-castle",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/doors-castle.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "heroes-assemble",
+      "title": "Heroes Assemble",
+      "description": "Heroes Assemble is a strategy-packed adventure where you unite legendary heroes across eras. Craft unique strategies by pairing them with adorable, powerful pets. Dive into unpredictable dungeons with Rogue-like elements for endless surprises. Challenge yourself with thrilling modes like boss battles, arenas, alliances, and more. Your choices shape every epic moment!",
+      "iframeUrl": "https://www.crazygames.com/embed/heroes-assemble",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/heroes-assemble.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "horror-tale-kidnapper",
+      "title": "Horror Tale",
+      "description": "Horror Tale Kidnapper is a frightening first-person horror adventure game. Solve the disturbing mystery of the missing children at Lakewitch. Who is the kidnapper, and why are they doing it? Where are the children disappearing, and how can we save them? It&#39;s up to you to find out.",
+      "iframeUrl": "https://www.crazygames.com/embed/horror-tale-kidnapper",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/horror-tale-kidnapper.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "game-cafe-escape",
+      "title": "Game Cafe Escape",
+      "description": "Game Cafe Escape is another room escape game from masasgames. This time you have to solve puzzles and escape from a beautifully designed game cafe.",
+      "iframeUrl": "https://www.crazygames.com/embed/game-cafe-escape",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/game-cafe-escape.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "house-escape-office",
+      "title": "House Escape: Office",
+      "description": "House Escape: Office is an escape game where you find tools and use them to solve puzzles. Can you find all the hidden clues and escape?",
+      "iframeUrl": "https://www.crazygames.com/embed/house-escape-office",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/house-escape-office.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "stick-fighter-vs-zombies",
+      "title": "Stick Fighter vs Zombies",
+      "description": "Stick Fighter vs Zombies is an action-packed 2D platformer where you control a red stickman battling endless waves of zombies in a blocky world reminiscent of Minecraft. Get ready for epic fights as you face off against zombies, skeleton archers, withers, and even Noob in this thrilling survival game! This fast-paced combat will keep you on your toes as you protect your stickman friends from the zombie apocalypse.",
+      "iframeUrl": "https://www.crazygames.com/embed/stick-fighter-vs-zombies",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/stick-fighter-vs-zombies.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "escape-room-strange-case-2",
+      "title": "Escape Room: Strange Case 2",
+      "description": "Escape Room: Strange Case 2 is an adventure-packed escape game that immerses you in a suspenseful journey through the dark and eerie corridors of a mysterious asylum. Unravel sinister secrets, solve intricate puzzles, uncover hidden clues, and unlock doors as you navigate through the haunting environment.",
+      "iframeUrl": "https://www.crazygames.com/embed/escape-room-strange-case-2",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/escape-room-strange-case-2.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "rooms-home-escape",
+      "title": "Rooms Home Escape",
+      "description": "Rooms Home escape is a puzzle escape game where you suddenly find yourself locked inside a house. Collect tools and find relevant clues. Solve compelling puzzles and find your way out!",
+      "iframeUrl": "https://www.crazygames.com/embed/rooms-home-escape",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/rooms-home-escape.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "castle-craft",
+      "title": "Castle Craft",
+      "description": "Castle Craft is a mystical adventure puzzle game where you merge resources while looking for Fiona&#39;s missing husband, Michael, all the while uncovering plenty of mysteries along the way. Begin in a fog-covered land, using ancient keys to explore hidden realms and trace the path of your lost family through different eras. Discover mysterious lands and piece together an enchanting legacy.",
+      "iframeUrl": "https://www.crazygames.com/embed/castle-craft",
+      "category": "Adventure",
+      "thumbnail": "thumbnails/castle-craft.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "block-wall-destroyer",
+      "title": "Block Wall Destroyer",
+      "description": "Block Wall Destroyer is an addictive idle destruction game where breaking walls is the key to progress! You start with a simple pickaxe—but don’t be fooled! You can mine, toss, and spin your tools to smash through walls and reach new levels of destruction.",
+      "iframeUrl": "https://www.crazygames.com/embed/block-wall-destroyer",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/block-wall-destroyer.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "block-build-destroyer",
+      "title": "Block Build Destroyer",
+      "description": "Block Build Destroyer is an idle destruction game where you tear down houses using an expanding lineup of powerful weapons. Begin with basic dynamite and work your way up to swords, pickaxes, and more. Each house brings new challenges, while your auto-attacking arsenal earns resources for upgrades. Reset progress for bonuses and demolish even faster as you chase ultimate destruction!",
+      "iframeUrl": "https://www.crazygames.com/embed/block-build-destroyer",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/block-build-destroyer.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "brainrot-idle-clicker",
+      "title": "Brainrot Idle Clicker",
+      "description": "Brainrot Idle Clicker is an incremental game where you tap your way through waves of bizarre enemies in a universe overflowing with wild humor. As you level up, you’ll pick clever cards to evolve your character, unlock strange powers, and take on even weirder challenges. Stay sharp—this world only gets stranger.",
+      "iframeUrl": "https://www.crazygames.com/embed/brainrot-idle-clicker",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/brainrot-idle-clicker.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "chicken-clicker",
+      "title": "Chicken Clicker",
+      "description": "Chicken Clicker is a fun, clicker, idle game where you help a fearless chicken on an epic flight through infinite universes. Click to soar higher, uncover bizarre realms, and unlock unexpected surprises at every turn. With vibrant visuals, fast-paced challenges, and endless opportunities to push your limits, this quirky game will keep you coming back for more sky-high clicking. Get your fingers ready for a non-stop clickable challenge.",
+      "iframeUrl": "https://www.crazygames.com/embed/chicken-clicker",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/chicken-clicker.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "obby-pull-a-sword",
+      "title": "Obby: Pull a Sword",
+      "description": "Obby: Pull a Sword is an action-packed clicker incremental game where you train to build strength and draw powerful swords. Face off against mighty bosses, unlock new abilities, and collect unique pets along the way. Each victory brings you closer to becoming the ultimate warrior. Can you master the challenge and prove your strength?",
+      "iframeUrl": "https://www.crazygames.com/embed/obby-pull-a-sword",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/obby-pull-a-sword.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "money-maker-idle",
+      "title": "Money Maker Idle",
+      "description": "Money Maker Idle is a fast-paced tapping game where you grow a money-printing empire from a humble machine into a financial powerhouse. Upgrade production lanes, unlock slicing bonuses, and trigger cash storms to accelerate your fortune. With every tap, you edge closer to billionaire status in a whirlwind of wealth, strategy, and satisfying money-making chaos.",
+      "iframeUrl": "https://www.crazygames.com/embed/money-maker-idle",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/money-maker-idle.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "catty-s-fishing-day",
+      "title": "Catty's Fishing Day",
+      "description": "Catty&#39;s Fishing Day is a clicker game where you embark on an exciting fishing journey filled with clicker mechanics, boss battles, and adorable ducks to aid you in catching the biggest fish! Discover new areas, upgrade your gear, and prepare for epic encounters with formidable Fish Bosses. Join Catty on her fishing journey and conquer the seas one catch at a time!",
+      "iframeUrl": "https://www.crazygames.com/embed/catty-s-fishing-day",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/catty-s-fishing-day.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "crusher-clicker",
+      "title": "Crusher Clicker",
+      "description": "Crusher Clicker is an addictive game where you smash rocks and crystals, then upgrade to enhance your crushing power and speed. It&#39;s like operating a hydraulic press but with a satisfying, stress-relieving twist. Boost your crusher&#39;s power, speed, and gravity for even more dramatic destruction. Get lost in the colorful physics and the endlessly engaging gameplay.",
+      "iframeUrl": "https://www.crazygames.com/embed/crusher-clicker",
+      "category": "Clicker",
+      "thumbnail": "thumbnails/crusher-clicker.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "bot-machines",
+      "title": "Assault Bots",
+      "description": "We&#39;d like to hear your feedback. Share your experience via this form to help us improve Assault Bots.",
+      "iframeUrl": "https://www.crazygames.com/embed/bot-machines",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/bot-machines.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "forward-assault",
+      "title": "Forward Assault Remix",
+      "description": "Forward Assault Remix is an exhilarating first-person shooter game from the developers of Bullet Force. This game stands out with fantastic 3D graphics, competitive games, and a fully-fledged clan system. Lock and load for a highly competitive online FPS game in your web browser!",
+      "iframeUrl": "https://www.crazygames.com/embed/forward-assault",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/forward-assault.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "air-wars-3",
+      "title": "Air Wars 3",
+      "description": "Air Wars 3 is a multiplayer air combat game. The aim of the game is to defeat your opponents in an intense air battle to take their base. The previous game, Air Wars 2, is also immensely popular. Fight a raging battle in the sky and dominate the leaderboard in this epic 3D combat game.",
+      "iframeUrl": "https://www.crazygames.com/embed/air-wars-3",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/air-wars-3.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "buildnow-gg",
+      "title": "BuildNow GG",
+      "description": "The official web location for BuildNow GG, an online build-and-shoot game featuring various game modes, weapons, and maps.",
+      "iframeUrl": "https://www.crazygames.com/embed/buildnow-gg",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/buildnow-gg.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "idle-zombie-wave",
+      "title": "Idle Zombie Wave: Survivors",
+      "description": "Idle Zombie Wave: Survivors is an intense idle survival strategy game where the undead are rising and only your leadership can turn the tide. As the world collapses under relentless zombie invasions, you must build and command a team of fearless survivors to hold the line. This defense game experience blends with tactical decisions, and chaotic zombie mayhem.",
+      "iframeUrl": "https://www.crazygames.com/embed/idle-zombie-wave",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/idle-zombie-wave.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "grand-escape-prison",
+      "title": "Grand Escape: Prison",
+      "description": "Grand Escape: Prison is an action shooting game where you plan the ultimate jailbreak by digging trenches, setting off powerful explosives, and defending your escape with help from a formidable ally. Outsmart enemies and dismantle the prison piece by piece until the entire building collapses beneath you. Every move counts—do you have what it takes to break free for good?",
+      "iframeUrl": "https://www.crazygames.com/embed/grand-escape-prison",
+      "category": "Shooting",
+      "thumbnail": "thumbnails/grand-escape-prison.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "cue-billiard-club",
+      "title": "Cue Billiard Club",
+      "description": "Cue Billiard Club is a realistic sports game, a 3D pool game that can be enjoyed by all ages. There are hundreds of tricky levels you can play. Play it solo, against your friend or AI.",
+      "iframeUrl": "https://www.crazygames.com/embed/cue-billiard-club",
+      "category": "Sports",
+      "thumbnail": "thumbnails/cue-billiard-club.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "table-tennis-world-tour",
+      "title": "Table Tennis World Tour",
+      "description": "Table Tennis World Tour is a thrilling sports game where you play table tennis against various opponents. Choose your country and step into the global arena, where you&#39;ll face off against a diverse array of opponents from around the world. Each match is a high-stakes showdown as you compete to rise through the ranks and become the ultimate table tennis champion.",
+      "iframeUrl": "https://www.crazygames.com/embed/table-tennis-world-tour",
+      "category": "Sports",
+      "thumbnail": "thumbnails/table-tennis-world-tour.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "golf-orbit",
+      "title": "Golf Orbit",
+      "description": "Golf Orbit is an exciting golf simulator game within our sports category where you aim to launch golf balls to incredible heights, even reaching Mars. Have fun in one-shot golf battles, complete challenging levels, and master the art of the perfect shot. Compete to become the golf king in this entertaining and unique golfing adventure.",
+      "iframeUrl": "https://www.crazygames.com/embed/golf-orbit",
+      "category": "Sports",
+      "thumbnail": "thumbnails/golf-orbit.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "basket-random",
+      "title": "Basket Random",
+      "description": "Basket Random is a chaotic 2-player arcade sports game with unpredictable physics. Bounce and battle for the ball across wild courts, with each dunk launching you to the next level!",
+      "iframeUrl": "https://www.crazygames.com/embed/basket-random",
+      "category": "Sports",
+      "thumbnail": "thumbnails/basket-random.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "wrestle-bros",
+      "title": "Wrestle Bros",
+      "description": "Wrestle Bros is a pro wrestling sports action game where you can body slam your way to victory in the championships as your favorite character. Unleash a flurry of wrestling moves on your opponents, from aerial assaults to bone-crushing body slams. Get ready to dominate the ring and claim the championship, bro!",
+      "iframeUrl": "https://www.crazygames.com/embed/wrestle-bros",
+      "category": "Sports",
+      "thumbnail": "thumbnails/wrestle-bros.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "crazy-flips-3d",
+      "title": "Crazy Flips 3D",
+      "description": "Crazy Flips 3D is an awesome sports game to do perfect flips, such as frontflips, backflips, and gainer tricks from high cliffs.",
+      "iframeUrl": "https://www.crazygames.com/embed/crazy-flips-3d",
+      "category": "Sports",
+      "thumbnail": "thumbnails/crazy-flips-3d.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "basketbros",
+      "title": "BasketBros",
+      "description": "BasketBros is a fast-paced basketball game with online and offline gameplay. Choose a basketballer, customize your style, and compete in singleplayer and multiplayer games. Throw down some sick dunks and win the game to earn upgrades and unlockables.",
+      "iframeUrl": "https://www.crazygames.com/embed/basketbros",
+      "category": "Sports",
+      "thumbnail": "thumbnails/basketbros.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "poxel-io",
+      "title": "Poxel.io",
+      "description": "Poxel.io is a, io fast-paced first-person shooter that throws you into intense pixelated battles across diverse maps. Choose from a wide arsenal of weapons, master different game modes, and outplay your rivals to claim the top spot. Every match is a test of skill and strategy: do you have what it takes to dominate the battlefield?",
+      "iframeUrl": "https://www.crazygames.com/embed/poxel-io",
+      "category": ".io",
+      "thumbnail": "thumbnails/poxel-io.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "miniblox",
+      "title": "Miniblox",
+      "description": "Miniblox is an online game featuring voxelated graphics and a diverse selection of minigames. Explore endless possibilities as you delve into a vibrant world of creativity and competition. Join in, and let the voxel adventures begin!",
+      "iframeUrl": "https://www.crazygames.com/embed/miniblox",
+      "category": ".io",
+      "thumbnail": "thumbnails/miniblox.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "pixel-warfare",
+      "title": "Pixel Warfare",
+      "description": "Pixel Warfare is an IO multiplayer shooting game featuring blocky graphics and 8-bit music, offering a retro experience. The fast-paced, tactical gameplay delivers an exciting FPS experience, with various weapons and maps that keep you on your toes. Choose a game from the menu screen and go straight into the action.",
+      "iframeUrl": "https://www.crazygames.com/embed/pixel-warfare",
+      "category": ".io",
+      "thumbnail": "thumbnails/pixel-warfare.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "stug",
+      "title": "STUG (.io)",
+      "description": "STUG is a multiplayer game to battle other players in a tank war! You can also buy vehicles, buy some boosts, do research, and customize your tank.",
+      "iframeUrl": "https://www.crazygames.com/embed/stug",
+      "category": ".io",
+      "thumbnail": "thumbnails/stug.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "smash-karts",
+      "title": "Smash Karts",
+      "description": "Smash Karts is a 3D multiplayer IO kart battle game. Drive your go-kart, pick up weapons, and blow up other karts to win! Keep playing to level up and unlock new characters and prizes.",
+      "iframeUrl": "https://www.crazygames.com/embed/smash-karts",
+      "category": ".io",
+      "thumbnail": "thumbnails/smash-karts.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "paper-io-2",
+      "title": "Paper.io 2",
+      "description": "Paper.io 2 is a real-time multiplayer .io game where you have to capture as much territory as possible by painting it. Paint the map in your own color to take over the Paper.io world! Look out for other players vying to claim your space.",
+      "iframeUrl": "https://www.crazygames.com/embed/paper-io-2",
+      "category": ".io",
+      "thumbnail": "thumbnails/paper-io-2.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "space-waves",
+      "title": "Space Waves",
+      "description": "Space Waves is an arcade game where you need to control an arrow to avoid obstacles until you get to the end. There are 33 levels to the game, and you can choose any level you want to play at any time. All levels vary in difficulty and are labeled accordingly with faces; this way you get to decide how courageous you want to be.",
+      "iframeUrl": "https://www.crazygames.com/embed/space-waves",
+      "category": "Casual",
+      "thumbnail": "thumbnails/space-waves.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "traffic-rider-vvq",
+      "title": "Traffic Rider",
+      "description": "Traffic Rider is a first-person driving bike endless game that puts you on a motorbike for an exhilarating ride. With a full career mode, lifelike bike sounds, and detailed graphics, it redefines arcade racing. Speed through highways, overtake traffic, and upgrade your rides to conquer challenging missions. Embrace the thrill and master the art of smooth racing.",
+      "iframeUrl": "https://www.crazygames.com/embed/traffic-rider-vvq",
+      "category": "Driving",
+      "thumbnail": "thumbnails/traffic-rider-vvq.png",
+      "aspectRatio": "16:9"
+    },
+    {
+      "id": "sky-riders-buk",
+      "title": "Sky Riders",
+      "description": "Sky Riders is a high-speed casual vehicle driving game. Put your driving skills to the test as you complete several challenging tracks. Stay focused and avoid falling off! Whether you&#39;re behind the wheel of a car or riding a motorcycle, prepare for an adrenaline-fueled adventure and unforgettable racing moments. Get ready to conquer difficult tests and feel the excitement of Sky Riders!",
+      "iframeUrl": "https://www.crazygames.com/embed/sky-riders-buk",
+      "category": "Driving",
+      "thumbnail": "thumbnails/sky-riders-buk.png",
+      "aspectRatio": "16:9"
+    }
+  ],
+  "categories": [
+    "All",
+    ".io",
+    "Action",
+    "Adventure",
+    "Casual",
+    "Clicker",
+    "Driving",
+    "Puzzle",
+    "Shooting",
+    "Sports"
+  ]
+}
